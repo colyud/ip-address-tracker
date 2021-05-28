@@ -17,7 +17,7 @@ Users should be able to:
 
 ### Links
 
--   Live Site URL: [Add live site URL here](https://happy-mcclintock-5575f4.netlify.app/)
+-   Live Site URL: [here](https://happy-mcclintock-5575f4.netlify.app/)
 
 ### Built with
 
