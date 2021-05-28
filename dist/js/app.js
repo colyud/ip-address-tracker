@@ -30,7 +30,7 @@ button.addEventListener("click", submitAddress);
 function submitAddress(e) {
     let ipAdressRegex = /^(?:[0-9]{1,3}\.){3}[0-9]{1,3}$/;
     if (inputAddress.value.match(ipAdressRegex)) {
-        api = `http://ip-api.com/${inputAddress.value}/json/`;
+        api = `https://ipapi.co/${inputAddress.value}/json/`;
         initMap();
     }
 }
